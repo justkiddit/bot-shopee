@@ -15,6 +15,6 @@ developed by [@gusviantoro](instagram.com/gusviantoro)
 
 ## requirements
 * python 3.9.6
-* mozilla firefox [application](mozilla.org)
-* geckodriver [application](github.com/mozilla/geckodriver/releases)
-* selenium [python packages](pypi.org/project/selenium/)
+* mozilla firefox [application](https://mozilla.org)
+* geckodriver [application](https://github.com/mozilla/geckodriver/releases)
+* selenium [python packages](https://pypi.org/project/selenium/)
