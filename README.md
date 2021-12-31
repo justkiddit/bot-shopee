@@ -17,5 +17,5 @@ developed by [@gusviantoro](instagram.com/gusviantoro)
 * python 3.9.6
 * mozilla firefox [application](mozilla.org)
 * geckodriver [application](github.com/mozilla/geckodriver/releases)
-* python [packages](https://github.com/justkiddit/bot-shopee/blob/main/requirements.txt)
+* selenium [python packages](pypi.org/project/selenium/)
 
