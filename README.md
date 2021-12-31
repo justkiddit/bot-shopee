@@ -1,6 +1,6 @@
 # bot shopee (beta)
-this bot is still in the development stage, is expected to be used in February. i'll try to improve it :)
-developed by @gusviantoro
+this bot is still in the development stage, is expected to be used in february. i'll try to improve it :)
+developed by [@gusviantoro](instagram.com/gusviantoro)
 
 ## how to use the bot
 * just paste the link product and also fill the date, time and minute of product release.
