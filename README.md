@@ -1,5 +1,5 @@
 # bot shopee (beta)
-this bot is still in the development stage, is expected to be used in february. i'll try to improve it :)
+this bot is still in the development stage. i'll try to improve it :)
 developed by [@gusviantoro](https://instagram.com/gusviantoro)
 
 ## how to use the bot
