@@ -1,6 +1,6 @@
 # bot shopee (beta)
 this bot is still in the development stage. i'll try to improve it :)
-developed by [Tachibana Rui](https://instagram.com/justkiddit)
+developed by [Ridho Gusviantoro](https://instagram.com/rgusviantoro)
 
 ## how to use the bot
 * just paste the link product and also fill the date, time and minute of product release.
