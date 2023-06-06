@@ -14,7 +14,7 @@ developed by [Ridho Gusviantoro](https://instagram.com/rgusviantoro)
 * install the mozilla firefox and geckodriver to the firefox folder in the system folder
 
 ## requirements
-* python 3.9.6
+* python 3.9.6++
 * mozilla firefox [application](https://mozilla.org)
 * geckodriver [application](https://github.com/mozilla/geckodriver/releases)
 * selenium [python packages](https://pypi.org/project/selenium/)
